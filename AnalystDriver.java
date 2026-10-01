@@ -1,15 +1,3 @@
-/*
-* Hugo Chavez
-* CIS171 Online
-* Date: 09/21/26
-* Operating System: Mac
-* IDE:IntelliJ IDEA
-* Program Description(short):  Driver program that demonstrates the SecurityAnalyst class, including both constructors, setters/getters, investigate(), and toString().
-* Academic Honesty: I attest that this is my original work.
-* I have not used unauthorized source code, either modified or unmodified
-* Documentation of Resources Used:
-*/
-
 package driver;
 
 import model.SecurityAnalyst;
